@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ian Wallis</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Ian Wallis</hi>
+  
+    <nav>
+     <li href="Hobbies">Hobbies</li>
+     <li href="Travel">Travel</li>
+     <li href=""></li>
+    </nav>
+  </header>
+
+  <h2 id="Hobbies">Hobbies</h2>
+  <h2 id="Travel">Travel</h2>
+</body>
+</html>
